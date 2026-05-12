@@ -1,1 +1,2 @@
-http://127.0.0.1:5500/ANOTHER/INDEX2.HTML
+## 🌐 Live Demo
+https://daltain.github.io/Online-Shopping/
